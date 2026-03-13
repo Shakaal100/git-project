@@ -1,0 +1,23 @@
+body{
+    background-color:aquamarine;
+}
+.hore{
+    background-color: blueviolet;
+    border: none;
+    width: 160px;
+    height: 40px;
+    border-radius: 70px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.dib{
+    background-color: antiquewhite;
+    border: none;
+    width: 160px;
+    height: 40px;
+    border-radius: 70px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
